@@ -1,0 +1,6 @@
+responsive hosse na...banner...so focus on the code
+576 er niche bootstrap kaj kore na
+sobi container er baire cole gele width komay dilei hobe...and tateo na hole img-fluid use korte hobe
+img er width set na kore container er width set kora ucit...logo er media query dekho
+inline element er upor margin auto er effect pore na
+img fluid sara img use kora nisedh
